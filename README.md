@@ -1,1 +1,1 @@
-# sample-app
+# codespaces-sample
