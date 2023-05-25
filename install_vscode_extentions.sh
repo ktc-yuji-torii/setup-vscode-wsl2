@@ -50,6 +50,9 @@ pkglist=(
     xaver.clang-format
     # protobuf
     zxh404.vscode-proto3
+    # Database
+    cweijan.vscode-mysql-client2
+    adpyke.vscode-sql-formatter
     # others
     VisualStudioExptTeam.vscodeintellicode
     VisualStudioExptTeam.intellicode-api-usage-examples
