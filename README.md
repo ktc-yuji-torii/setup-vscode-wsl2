@@ -1,4 +1,5 @@
-# codespaces-sample
+# setup-vscode-wsl2
+wsl2, vscodeのセットアップを簡略化するためのプロジェクト
 
 ## install_vscode_extentions.sh
 
