@@ -41,8 +41,10 @@ pkglist=(
     golang.go
     # Python
     ms-python.python
+    ms-python.vscode-pylance
     ms-python.isort
     KevinRose.vsc-python-indent
+    njpwerner.autodocstring
     # Makefile
     ms-vscode.makefile-tools
     # gRPC
@@ -71,6 +73,10 @@ pkglist=(
     Syler.sass-indented
     # Markdown
     yzhang.markdown-all-in-one
+    # yaml
+    redhat.vscode-yaml
+    # toml
+    bungcip.better-toml
 
     # Others
     # REST Client
