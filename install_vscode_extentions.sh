@@ -84,3 +84,6 @@ pkglist=(
 for i in ${pkglist[@]}; do
   code --install-extension $i
 done
+
+# VS Codeを再起動
+code --force
